@@ -1,5 +1,5 @@
 
-## 1. MNIST Handwritten Digit Classifier with PyTorch
+## [1. MNIST Handwritten Digit Classifier with PyTorch](./1.MNIST_Handwritten_Digit_Classifier_with_PyTorch.ipynb).
 
 This is a simple implementation of an image classifier using PyTorch. The classifier is designed to recognize handwritten digits from the MNIST dataset. The main components of the code include:
 - Data Loading:
